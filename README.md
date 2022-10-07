@@ -1,2 +1,2 @@
 # Global-Chronicles-Website
-source code of the website in CSS, along with the edited portions in HTML &amp; CSS. 
+Source code of the website in HTML, JavaScript, & CSS. Alongside edits made to fit personal requirements in the languages listed above. 
